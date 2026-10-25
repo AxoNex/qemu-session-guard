@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# 运行时数据（SQLite、QMP socket）
+backend/data/
+data/
+
+# 日志
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
